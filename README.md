@@ -1,5 +1,7 @@
-Test Verification Box
-=====================
+box-bootstrap
+=============
+
+Quick setup vagrant based box environment
 
 System Requirements
 -------------------
@@ -11,8 +13,15 @@ Getting Started
 ---------------
 
 ```
-$ vagrant up
+$ make up
 ```
+
+Links
+-----
+
++ [hansode/vagrant-setup](https://github.com/hansode/vagrant-setup)
++ [hansode/env-bootstrap](https://github.com/hansode/env-bootstrap)
++ [hansode/dotfiles](https://github.com/hansode/dotfiles)
 
 License
 -------
